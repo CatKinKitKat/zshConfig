@@ -22,3 +22,6 @@ source .zsh/powerlevel10k.zsh
 
 # Tell Antigen that you're done.
 antigen apply
+
+# Hello Message
+#toilet -f smmono12 'CatKinKitKat' | lolcat -f; sleep 1; clear
